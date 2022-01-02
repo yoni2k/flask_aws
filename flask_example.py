@@ -2,7 +2,7 @@ from flask import Flask
 
 example_app = Flask(__name__)
 
-LOCAL_RUN = True
+LOCAL_RUN = False
 AWS_PORT = 5000
 
 
