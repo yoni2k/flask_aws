@@ -3,7 +3,7 @@ from flask import Flask
 example_app = Flask(__name__)
 
 LOCAL_RUN = False
-AWS_PORT = 5000
+AWS_PORT = 8080
 
 
 @example_app.route('/')
