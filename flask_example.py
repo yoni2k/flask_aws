@@ -8,7 +8,7 @@ AWS_PORT = 5000
 
 @example_app.route('/')
 def hello_world():
-    return 'Hello Fellows October 2021.  Are you excited for the Hackathon?'
+    return 'Hello Fellows February 2022.  Are you excited for the Hackathon?'
 
 
 if __name__ == '__main__':
